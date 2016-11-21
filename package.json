@@ -7,17 +7,17 @@
   },
   "dependencies": {
     "cog": "^1",
-    "eventemitter3": "^0.1.2",
+    "eventemitter3": "^2.0.2",
     "formatter": "^0.4.1",
-    "rtc-core": "^3.0.0",
-    "ws": "~0.4"
+    "rtc-core": "^4.0.0",
+    "ws": "~1.1.1"
   },
   "devDependencies": {
-    "async": "~0.9",
-    "fdom": "^0.8.0",
-    "messenger-memory": "^1.1",
-    "rtc-switchboard": "^0.10.1",
-    "tape": "^2",
+    "async": "~2.1.2",
+    "fdom": "^1.2.0",
+    "messenger-memory": "^2.0.0",
+    "rtc-switchboard": "^3.2.0",
+    "tape": "^4.6.2",
     "testling": "^1"
   },
   "scripts": {
